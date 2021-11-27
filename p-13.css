@@ -1,0 +1,138 @@
+body{
+    background-color: black;
+}
+.d1{
+     height: fit-content;
+    background-color: black;
+}
+.a1{
+    text-decoration: black;
+    color: white;
+    font-weight: bolder;
+}
+.log{
+    font-size: 30px;
+}
+.navbarcolor{
+    background-color:#4d0099;
+     font-size: 20px;
+      
+    
+}
+.head{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    color: white;
+}
+.ic{
+     font-size: 350px;
+     color: aqua;
+}
+.p-1{
+    font-size: 25px;
+    color: lightgrey;
+}
+.d2{
+    margin-top: 0%;
+    height: fit-content;
+}
+.img1{
+    position: relative;
+    left: 10%;
+    height: fit-content;
+    width: fit-content;
+    /* background-color:white; */
+    border-radius: 10%;
+    transform:rotate(10deg);
+}
+.ic2{
+    font-size: 45px;
+
+}
+.ic2:hover{
+    font-size: 45px;
+    color: black;
+    background-color: white;
+    border-radius: 20%;
+}
+.bn1{
+    background-color: green;
+     
+}
+.bn2{
+    background-color: yellow;
+}
+.bn{
+    position: relative;
+    left: 17%;
+     bottom: 5%;
+      
+    }
+.hd{
+    position: relative;
+    font-family:'Montserrat', sans-serif ;
+    font-size: 120px;
+    color: white;
+    /* text-align: center; */
+    
+}
+.b1{
+    width: fit-content;
+    /* background-color: black; */
+     border-radius: 5%;
+}
+.b2{
+    margin-top: 1%;
+    width: fit-content;
+    /* background-color: black; */
+    border-radius: 5%;
+}
+ 
+.dn{
+    font-size: 30px;
+    font-family:'Montserrat', sans-serif ;
+}
+.d4{
+    background-color: black;
+    height: fit-content;
+}
+.pc{
+    margin: 5% 0% 5% 0%;
+    height: 300px;
+    width: 420px;
+    border-style: solid;
+    border-radius: 20%;
+    border-color: aqua black;
+     image-resolution: 1900px;
+}
+.h-3{
+    margin: 5% 0% 5% 0%;
+    /* color: #86c232; */
+    color: white;
+    font-weight: bolder;
+    font-family:'Montserrat', sans-serif ;
+    /* text-align: center; */
+}
+ .h3{
+     position: relative;
+     left: 25%;
+ }
+ 
+ .bmw{
+     text-align: left;
+     font-family:'Montserrat', sans-serif ;
+     color: white;
+    height: fit-content;
+     border-style: solid;
+     border-color: aqua ;
+     border-radius: 5%;
+      
+     background-color: #191A19;
+     border-color: #4d0099 black;
+      
+ }
+ .sym{
+     height: 50px;
+     width: 50px;
+ }
